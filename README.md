@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FX-inator.
+- 👋 Hi, I’m @FX-inator (YiY).
 - 👀 I’m interested in a lot of things.
-- 🌱 I’m currently learning a new thing.
-- 💞️ I’m looking to collaborate on pretty much anything innovative. 
-- 📫 How to reach me through email.
+- 🌱 I’m currently learning new things.
+- 💞️ I’m looking to collaborate on anything innovative. 
+- 📫 How to reach me: Email *Yif*.
 
 <!---
 FX-inator/FX-inator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
